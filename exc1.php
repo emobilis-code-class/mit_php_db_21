@@ -16,7 +16,8 @@
      "Knut" =>9000,
      "Turing"=>8000,
      "Afifa" => 25000,
-     "Gourling"=>6500
+     "Gourling"=>6500,
+     "Bill"=>12500
  );
 
 ?>
